@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">90dp</dimen>
+    <dimen name="text_filters_size">16sp</dimen>
+    <dimen name="filters_size">47dp</dimen>
+    <dimen name="item_offset">5dp</dimen>
+</resources>

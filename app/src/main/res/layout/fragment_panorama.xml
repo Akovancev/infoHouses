@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <com.lespinside.simplepanorama.view.SphericalView
+        android:id="@+id/spherical_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:yaw="0"
+        app:pitch="5"
+        app:zoomFactor="0.6"
+        app:enableZoom="false"
+        app:rotationSensibility="70"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list"
+        app:layout_heightPercent="20%"
+        app:layout_marginTopPercent="80%"
+        app:layout_widthPercent="100%"
+        android:layoutAnimation="@anim/layout_animation_fall_down"
+        android:layout_below="@id/toolbar"
+        android:paddingTop="0dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+</android.support.percent.PercentRelativeLayout>

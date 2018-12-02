@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        icon="@drawable/home"
+        id="@+id/bb_menu_houses"
+        title=""
+        />
+    <tab
+        icon="@drawable/favourite"
+        id="@+id/bb_menu_favourite"
+        title=""
+        />
+    <tab
+        icon="@drawable/company"
+        id="@+id/bb_menu_search"
+        title=""
+        />
+</tabs>

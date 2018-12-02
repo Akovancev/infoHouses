@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company" translatable="false"><item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>Факел</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Акцент</item>
+<item>Два капитана</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>Акцент</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Два капитана</item>
+<item>Выбор</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>Акцент</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Акцент</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Факел</item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>Факел</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>Домостроительный комбинат </item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВДК</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Акцент</item>
+<item>ВДК</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ВоронежЕвроСтрой</item>
+<item>ЖБИ2-Инвест</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>Выбор</item>
+<item>Два капитана</item>
+<item>Факел</item>
+<item>Выбор</item>
+<item>ВоронежЕвроСтрой</item>
+<item>Домостроительный комбинат </item>
+<item>ВДК</item>
+
+    </string-array>
+</resources>

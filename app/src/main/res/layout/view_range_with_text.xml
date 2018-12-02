@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.percent.PercentRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.appyvet.materialrangebar.RangeBar xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/rangebar1"
+        app:layout_heightPercent="100%"
+        app:layout_marginLeftPercent="17.5%"
+        android:padding="3sp"
+        app:layout_widthPercent="65%"
+        app:mrb_pinColor="#6c3f6a"
+        app:mrb_pinMaxFont="15sp"
+        app:mrb_pinMinFont="12sp"
+        app:mrb_pinRadius="0dp"
+        app:mrb_pinTextColor="@color/white"
+        app:mrb_rangeBar="true"
+        app:mrb_rangeBarPaddingBottom="20dp"
+        app:mrb_rangeBar_rounded="true"
+        app:mrb_selectorBoundaryColor="@color/accent"
+        app:mrb_selectorBoundarySize="2dp"
+        app:mrb_selectorSize="2dp"
+        app:mrb_temporaryPins="true"
+        app:mrb_tickColor="#0000"
+        app:mrb_tickEnd="10"
+        app:mrb_tickInterval="1"
+        app:mrb_tickStart="5" />
+
+    <com.jifisher.infohouses.CustomViews.AutoResizeTextView
+        android:id="@+id/leftText"
+        android:inputType="numberDecimal"
+        android:textColor="#000"
+        android:textSize="1000sp"
+        app:layout_heightPercent="100%"
+        app:layout_marginLeftPercent="0%"
+        app:layout_marginTopPercent="0%"
+        app:layout_widthPercent="15%" />
+
+    <com.jifisher.infohouses.CustomViews.AutoResizeTextView
+        android:id="@+id/rightText"
+        android:inputType="number"
+        android:textColor="#000"
+        android:textSize="1000sp"
+        android:gravity="right"
+        app:layout_heightPercent="100%"
+        app:layout_marginLeftPercent="85%"
+        app:layout_marginTopPercent="0%"
+        app:layout_widthPercent="15%" />
+</android.support.percent.PercentRelativeLayout>

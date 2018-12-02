@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adresscompany" translatable="false"><item>ул. Переверткина, 1П</item>
+<item>ул. Пеше-Стрелецкая, 95</item>
+<item>ул. Карла Маркса, 67</item>
+<item>ул. Дорожная, 13</item>
+<item>жил. массив Олимпийский, 8</item>
+<item>ул. Конструкторов, дом 1, 2 этаж, офис 21</item>
+<item>ул. 232 Стрелковой Дивизии, 232, 1 этаж</item>
+<item>ул. Старых Большевиков, 53</item>
+
+    </string-array>
+</resources>

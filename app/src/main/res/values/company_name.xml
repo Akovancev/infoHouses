@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="company_name" translatable="false">
+        <item>Не важно</item>
+        <item>Выбор</item>
+<item>Домостроительный комбинат </item>
+<item>Два капитана</item>
+<item>ЖБИ2-Инвест</item>
+<item>ВДК</item>
+<item>Акцент</item>
+<item>Факел</item>
+<item>ВоронежЕвроСтрой</item>
+
+    </string-array>
+    <string-array name="finishing_filters" translatable="false">
+        <item>Не важно</item>
+<item>Черновая отедлка</item>
+<item>С отделкой</item>
+
+    </string-array>
+    <string-array name="district_filters" translatable="false">
+        <item>Не важно</item>
+<item>Центральный</item>
+<item>Коминтерновский</item>
+<item>Советский</item>
+<item>Ленинский</item>
+<item>Левобережный</item>
+<item>Железнодорожный</item>
+
+    </string-array>
+</resources>

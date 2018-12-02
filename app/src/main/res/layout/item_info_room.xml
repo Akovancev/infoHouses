@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_width="140dp"
+        android:layout_height="180dp"
+        android:layout_gravity="center"
+        card_view:cardCornerRadius="8dp"
+        card_view:cardElevation="5dp"
+        card_view:contentPadding="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical">
+
+            <android.support.percent.PercentRelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/houseImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+                <ImageView
+                    android:id="@+id/like"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="center"
+
+                    app:layout_heightPercent="10%"
+                    android:layout_weight="1"
+                    app:layout_widthPercent="10%" />
+
+                <ImageView
+                    android:id="@+id/add"
+                    android:layout_gravity="center"
+                    app:layout_heightPercent="10%"
+                    app:layout_marginLeftPercent="90%"
+                    android:layout_weight="1"
+                    app:layout_widthPercent="10%" />
+            </android.support.percent.PercentRelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/bottomCard"
+                android:layout_width="120dp"
+                android:layout_height="40dp"
+                android:orientation="vertical">
+
+                <com.jifisher.infohouses.CustomViews.AutoResizeTextView
+                    android:id="@+id/adress"
+                    android:textColor="#000000"
+                    android:textSize="1000sp"
+                    android:layout_margin="3dp"
+                    android:maxLines="1"
+                    android:gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="3dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>
